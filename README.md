@@ -1,0 +1,1 @@
+Este ejercicio devuelve un numero aleatorio entre 0 y 1, mostrandor por consola una pequeña aclaración de si es mayor que 0,5 o mayor.
